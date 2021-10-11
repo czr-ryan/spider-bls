@@ -1,0 +1,384 @@
+new york-newark-jersey city # new york,new jersey,pennsylvania
+los angeles-long beach-anaheim # california
+chicago-naperville-elgin # illinois,indiana,wisconsin
+dallas-fort worth-arlington # texas
+houston-the woodlands-sugar land # texas
+washington-arlington-alexandria # district of columbia,virginia,maryland,west virginia
+philadelphia-camden-wilmington # pennsylvania,new jersey,delaware,maryland
+miami-fort lauderdale-west palm beach # florida
+atlanta-sandy springs-alpharetta # georgia
+boston-cambridge-newton # massachusetts,new hampshire
+phoenix-mesa-chandler # arizona
+san francisco-oakland-berkeley # california
+riverside-san bernardino-ontario # california
+detroit–warren–dearborn # michigan
+seattle-tacoma-bellevue # washington
+minneapolis-st. paul-bloomington # minnesota,wisconsin
+san diego-chula vista-carlsbad # california
+tampa-st. petersburg-clearwater # florida
+denver-aurora-lakewood # colorado
+baltimore-columbia-towson # maryland
+st. louis # missouri,illinois
+orlando-kissimmee-sanford # florida
+charlotte-concord-gastonia # north carolina,south carolina
+san antonio-new braunfels # texas
+portland-vancouver-hillsboro # oregon,washington
+sacramento-roseville-folsom # california
+pittsburgh # pennsylvania
+austin-round rock-georgetown # texas
+las vegas-henderson-paradise # nevada
+cincinnati # ohio,kentucky,indiana
+kansas city # missouri,kansas
+columbus # ohio
+indianapolis-carmel-anderson # indiana
+cleveland-elyria # ohio
+san jose-sunnyvale-santa clara # california
+nashville-davidson–murfreesboro–franklin # tennessee
+virginia beach-norfolk-newport news # virginia,north carolina
+providence-warwick # rhode island,massachusetts
+jacksonville # florida
+milwaukee-waukesha # wisconsin
+oklahoma city # oklahoma
+raleigh-cary # north carolina
+memphis # tennessee,mississippi,arkansas
+richmond # virginia
+louisville/jefferson county # kentucky,indiana
+new orleans-metairie # louisiana
+salt lake city # utah
+hartford-east hartford-middletown # connecticut
+buffalo-niagara falls # new york
+birmingham-hoover # alabama
+rochester # new york
+grand rapids-kentwood # michigan
+tucson # arizona
+urban honolulu # hawaii
+tulsa # oklahoma
+fresno # california
+worcester # massachusetts,connecticut
+omaha-council bluffs # nebraska,iowa
+bridgeport-stamford-norwalk # connecticut
+greenville-anderson # south carolina
+albuquerque # new mexico
+bakersfield # california
+albany-schenectady-troy # new york
+knoxville # tennessee
+mcallen-edinburg-mission # texas
+baton rouge # louisiana
+el paso # texas
+new haven-milford # connecticut
+allentown-bethlehem-easton # pennsylvania,new jersey
+oxnard-thousand oaks-ventura # california
+north port-sarasota-bradenton # florida
+columbia # south carolina
+dayton-kettering # ohio
+charleston-north charleston # south carolina
+stockton # california
+greensboro-high point # north carolina
+boise city # idaho
+cape coral-fort myers # florida
+colorado springs # colorado
+little rock-north little rock-conway # arkansas
+lakeland-winter haven # florida
+des moines-west des moines # iowa
+akron # ohio
+springfield # massachusetts
+poughkeepsie-newburgh-middletown # new york
+ogden-clearfield # utah
+madison # wisconsin
+winston-salem # north carolina
+provo-orem # utah
+deltona-daytona beach-ormond beach # florida
+syracuse # new york
+durham-chapel hill # north carolina
+wichita # kansas
+toledo # ohio
+augusta-richmond county # georgia,south carolina
+palm bay-melbourne-titusville # florida
+jackson # mississippi
+harrisburg-carlisle # pennsylvania
+spokane-spokane valley # washington
+scranton–wilkes-barre # pennsylvania
+chattanooga # tennessee,georgia
+lancaster # pennsylvania
+modesto # california
+portland-south portland # maine
+fayetteville-springdale-rogers # arkansas
+lansing-east lansing # michigan
+youngstown-warren-boardman # ohio,pennsylvania
+fayetteville # north carolina
+lexington-fayette # kentucky
+pensacola-ferry pass-brent # florida
+huntsville # alabama
+reno # nevada
+santa rosa-petaluma # california
+myrtle beach-conway-north myrtle beach # south carolina,north carolina
+port st. lucie # florida
+lafayette # louisiana
+springfield # missouri
+killeen-temple # texas
+visalia # california
+asheville # north carolina
+york-hanover # pennsylvania
+vallejo # california
+santa maria-santa barbara # california
+salinas # california
+salem # oregon
+mobile # alabama
+reading # pennsylvania
+manchester-nashua # new hampshire
+corpus christi # texas
+brownsville-harlingen # texas
+fort wayne # indiana
+salisbury # maryland,delaware
+gulfport-biloxi # mississippi
+flint # michigan
+savannah # georgia
+peoria # illinois
+canton-massillon # ohio
+anchorage # alaska
+beaumont-port arthur # texas
+shreveport-bossier city # louisiana
+trenton-princeton # new jersey
+montgomery # alabama
+davenport-moline-rock island # iowa,illinois
+tallahassee # florida
+eugene-springfield # oregon
+ocala # florida
+naples-marco island # florida
+ann arbor # michigan
+hickory-lenoir-morganton # north carolina
+huntington-ashland # west virginia,kentucky,ohio
+fort collins # colorado
+lincoln # nebraska
+gainesville # florida
+rockford # illinois
+boulder # colorado
+greeley # colorado
+columbus # georgia,alabama
+green bay # wisconsin
+spartanburg # south carolina
+south bend-mishawaka # indiana,michigan
+lubbock # texas
+clarksville # tennessee,kentucky
+roanoke # virginia
+evansville # indiana,kentucky
+kingsport-bristol # tennessee,virginia
+kennewick-richland # washington
+olympia-lacey-tumwater # washington
+hagerstown-martinsburg # maryland,west virginia
+utica-rome # new york
+duluth # minnesota,wisconsin
+crestview-fort walton beach-destin # florida
+longview # texas
+wilmington # north carolina
+san luis obispo-paso robles # california
+merced # california
+waco # texas
+sioux falls # south dakota
+cedar rapids # iowa
+bremerton-silverdale-port orchard # washington
+atlantic city-hammonton # new jersey
+erie # pennsylvania
+santa cruz-watsonville # california
+amarillo # texas
+tuscaloosa # alabama
+norwich-new london # connecticut
+college station-bryan # texas
+laredo # texas
+kalamazoo-portage # michigan
+lynchburg # virginia
+charleston # west virginia
+yakima # washington
+fargo # north dakota,minnesota
+binghamton # new york
+fort smith # arkansas,oklahoma
+appleton # wisconsin
+prescott valley-prescott # arizona
+macon-bibb county # georgia
+tyler # texas
+topeka # kansas
+daphne-fairhope-foley # alabama
+barnstable town # massachusetts
+bellingham # washington
+rochester # minnesota
+burlington-south burlington # vermont
+lafayette-west lafayette # indiana
+medford # oregon
+champaign-urbana # illinois
+lake charles # louisiana
+charlottesville # virginia
+las cruces # new mexico
+hilton head island-bluffton-beaufort # south carolina
+athens-clarke county # georgia
+lake havasu city-kingman # arizona
+chico # california
+columbia # missouri
+springfield # illinois
+johnson city # tennessee
+houma-thibodaux # louisiana
+monroe # louisiana
+elkhart-goshen # indiana
+jacksonville # north carolina
+yuma # arizona
+gainesville # georgia
+florence # south carolina
+st. cloud # minnesota
+bend # oregon
+racine # wisconsin
+warner robins # georgia
+saginaw # michigan
+punta gorda # florida
+terre haute # indiana
+billings # montana
+redding # california
+dover # delaware
+kingston # new york
+joplin # missouri
+yuba city # california
+jackson # tennessee
+st. george # utah
+el centro # california
+bowling green # kentucky
+abilene # texas
+muskegon # michigan
+iowa city # iowa
+midland # texas
+panama city # florida
+auburn-opelika # alabama
+hattiesburg # mississippi
+eau claire # wisconsin
+oshkosh-neenah # wisconsin
+burlington # north carolina
+coeur d'alene # idaho
+bloomington # illinois
+greenville # north carolina
+waterloo-cedar falls # iowa
+east stroudsburg # pennsylvania
+pueblo # colorado
+wausau-weston # wisconsin
+blacksburg-christiansburg # virginia
+odessa # texas
+kahului-wailuku-lahaina # hawaii
+janesville-beloit # wisconsin
+bloomington # indiana
+jackson # michigan
+sebastian-vero beach # florida
+state college # pennsylvania
+idaho falls # idaho
+decatur # alabama
+madera # california
+chambersburg-waynesboro # pennsylvania
+grand junction # colorado
+elizabethtown-fort knox # kentucky
+santa fe # new mexico
+monroe # michigan
+niles # michigan
+vineland-bridgeton # new jersey
+homosassa springs # florida
+hanford-corcoran # california
+bangor # maine
+alexandria # louisiana
+dothan # alabama
+florence-muscle shoals # alabama
+jefferson city # missouri
+sioux city # iowa,nebraska,south dakota
+albany # georgia
+wichita falls # texas
+valdosta # georgia
+texarkana # texas,arkansas
+logan # utah,idaho
+flagstaff # arizona
+rocky mount # north carolina
+lebanon # pennsylvania
+dalton # georgia
+morristown # tennessee
+winchester # virginia,west virginia
+morgantown # west virginia
+la crosse-onalaska # wisconsin,minnesota
+wheeling # west virginia,ohio
+rapid city # south dakota
+napa # california
+sumter # south carolina
+springfield # ohio
+harrisonburg # virginia
+sherman-denison # texas
+battle creek # michigan
+jonesboro # arkansas
+manhattan # kansas
+bismarck # north dakota
+johnstown # pennsylvania
+carbondale-marion # illinois
+hammond # louisiana
+the villages # florida
+mount vernon-anacortes # washington
+pittsfield # massachusetts
+albany-lebanon # oregon
+glens falls # new york
+lawton # oklahoma
+cleveland # tennessee
+sierra vista-douglas # arizona
+staunton # virginia
+ames # iowa
+mansfield # ohio
+san angelo # texas
+altoona # pennsylvania
+new bern # north carolina
+wenatchee # washington
+farmington # new mexico
+owensboro # kentucky
+st. joseph # missouri,kansas
+lawrence # kansas
+sheboygan # wisconsin
+missoula # montana
+goldsboro # north carolina
+weirton-steubenville # west virginia,ohio
+watertown-fort drum # new york
+anniston-oxford # alabama
+beckley # west virginia
+twin falls # idaho
+williamsport # pennsylvania
+california-lexington park # maryland
+brunswick # georgia
+michigan city-la porte # indiana
+muncie # indiana
+lewiston-auburn # maine
+longview # washington
+kankakee # illinois
+ithaca # new york
+grand forks # north dakota,minnesota
+fond du lac # wisconsin
+decatur # illinois
+bay city # michigan
+gettysburg # pennsylvania
+mankato # minnesota
+gadsden # alabama
+lima # ohio
+sebring-avon park # florida
+cheyenne # wyoming
+hot springs # arkansas
+dubuque # iowa
+rome # georgia
+victoria # texas
+cape girardeau # missouri,illinois
+fairbanks # alaska
+ocean city # new jersey
+corvallis # oregon
+cumberland # maryland,west virginia
+pocatello # idaho
+parkersburg-vienna # west virginia
+grants pass # oregon
+pine bluff # arkansas
+great falls # montana
+elmira # new york
+kokomo # indiana
+midland # michigan
+bloomsburg-berwick # pennsylvania
+columbus # indiana
+hinesville # georgia
+casper # wyoming
+grand island # nebraska
+danville # illinois
+lewiston # idaho,washington
+enid # oklahoma
+walla walla # washington
+carson city # nevada
