@@ -1,3 +1,5 @@
+用python爬取384个美国城市就业信息
+
 文件说明：
 Bureau_of_Labor_Statistics_Data.html 查询结果的html文件
 cities.txt 城市名称和对应州的缩写
